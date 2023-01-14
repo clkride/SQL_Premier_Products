@@ -20,7 +20,8 @@ The database consists of following tables -
 ## Steps to Import Database File
 
 ## ER Diagram
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/clkride/SQL_Premier_Products/blob/main/ERD.png?raw=true)
+
 ## Author
 
 ## License

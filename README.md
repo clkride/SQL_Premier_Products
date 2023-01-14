@@ -5,6 +5,7 @@ Fundamental and Advanced SQL queries for questions on Premier Products Data set.
 - [About Premier Products Data Set](#about-premier-products-data-set)
 - [Steps to Import Database File](#steps-to-import-database-file)
 - [ER Diagram](#er-diagram)
+- [Project Description](#project-description)
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -47,8 +48,8 @@ The database consists of following tables -
 
 ## Project Description
 1. [Premier_Product_Basic.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Basic.sql)
-2. Premier_Product_Fundamental.sql
-3. Premier_Product_Advanced.sql
+2. [Premier_Product_Fundamental.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Fundamental.sql)
+3. [Premier_Product_Advanced.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Advanced.sql)
 
 ## Author
 

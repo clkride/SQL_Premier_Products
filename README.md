@@ -45,6 +45,11 @@ The database consists of following tables -
 ## ER Diagram
 ![alt text](https://github.com/clkride/SQL_Premier_Products/blob/main/ERD.png?raw=true)
 
+## Project Description
+1. [Premier_Product_Basic.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Basic.sql)
+2. Premier_Product_Fundamental.sql
+3. Premier_Product_Advanced.sql
+
 ## Author
 
 ## License

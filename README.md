@@ -57,9 +57,14 @@ The database consists of following tables -
 
 ## Project Description
 1. [Premier_Product_Basic.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Basic.sql)
+   contains queries that use - where, order by, inner join 
+   
 2. [Premier_Product_Fundamental.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Fundamental.sql)
-3. [Premier_Product_Advanced.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Advanced.sql)
+   contains queries that use - OR, IN, order by, having, group by
 
+3. [Premier_Product_Advanced.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Advanced.sql)
+   contains queries that use - Inner join, Nested Queries, exists, LIKE, And, OR, full join
+   
 ## Author
  @[Abbas S.](https://github.com/clkride)
  

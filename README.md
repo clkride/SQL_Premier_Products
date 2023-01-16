@@ -88,7 +88,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Acknowledgments
-
+Inspiration, code snippets, etc.
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)

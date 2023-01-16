@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 ![GitHub contributors](https://img.shields.io/github/contributors/clkride/SQL_Premier_Products?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/clkride/SQL_Premier_Products?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/clkride/SQL_Premier_Products?style=flat-square)
@@ -45,7 +46,7 @@ The database consists of following tables -
 * rep
     * Primary Key: rep_num
     * Table provides details about a sales representative. The table contains one row for each rep and a rep is uniquely identified by a rep_num. Each row contains address details, region served by the rep, and commission charged.
-    
+   
 ## Steps to Import Database File
 1. Create a new database within pgadmin server and give it a name.
 2. Right-click on the new database then select 'Restore'.
@@ -64,10 +65,10 @@ The database consists of following tables -
 
 3. [Premier_Product_Advanced.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Advanced.sql)
    contains queries that use - Inner join, Nested Queries, exists, LIKE, And, OR, full join
-   
+  
 ## Author
  @[Abbas S.](https://github.com/clkride)
- 
+
 ## License
 The MIT License (MIT)
 
@@ -97,3 +98,4 @@ Inspiration, code snippets, etc.
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

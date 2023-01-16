@@ -28,6 +28,8 @@ The database consists of following tables -
 * part
 * rep
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Table Descriptions
 * customer
     * Primary Key: customer_num
@@ -46,15 +48,21 @@ The database consists of following tables -
 * rep
     * Primary Key: rep_num
     * Table provides details about a sales representative. The table contains one row for each rep and a rep is uniquely identified by a rep_num. Each row contains address details, region served by the rep, and commission charged.
-   
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Steps to Import Database File
 1. Create a new database within pgadmin server and give it a name.
 2. Right-click on the new database then select 'Restore'.
 3. Import Premier Products Database file.
 4. Select 'Restore' to start restoring the database.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ER Diagram
 ![alt text](https://github.com/clkride/SQL_Premier_Products/blob/main/ERD.png?raw=true)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Description
 1. [Premier_Product_Basic.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Basic.sql)
@@ -65,7 +73,9 @@ The database consists of following tables -
 
 3. [Premier_Product_Advanced.sql](https://github.com/clkride/SQL_Premier_Products/blob/main/Premier_Product_Advanced.sql)
    contains queries that use - Inner join, Nested Queries, exists, LIKE, And, OR, full join
-  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Author
  @[Abbas S.](https://github.com/clkride)
 
@@ -92,6 +102,8 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 Inspiration, code snippets, etc.

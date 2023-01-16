@@ -1,3 +1,11 @@
+![GitHub contributors](https://img.shields.io/github/contributors/clkride/SQL_Premier_Products?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/clkride/SQL_Premier_Products?style=flat-square)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/clkride/SQL_Premier_Products?style=flat-square)
+![GitHub](https://img.shields.io/github/license/clkride/SQL_Premier_Products?style=flat-square)
+<a href="https://linkedin.com/in/abbas-singapurwala">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+
 # SQL_Premier_Products
 Fundamental and Advanced SQL queries for questions on Premier Products Data set. The questions  are mentioned as comments in the sql file followed by the queries.
 
@@ -80,3 +88,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Acknowledgments
 
+* [Choose an Open Source License](https://choosealicense.com)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
